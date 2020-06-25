@@ -1,0 +1,8 @@
+F:\Test\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.deps.json
+F:\Test\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.dll
+F:\Test\DataAccessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.pdb
+F:\Test\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.AssemblyInfoInputs.cache
+F:\Test\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.AssemblyInfo.cs
+F:\Test\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.dll
+F:\Test\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.pdb
+F:\Test\DataAccessLibrary\obj\Debug\netstandard2.0\DataAccessLibrary.csprojAssemblyReference.cache

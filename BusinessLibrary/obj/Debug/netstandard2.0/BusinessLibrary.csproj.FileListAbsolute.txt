@@ -1,0 +1,11 @@
+F:\Test\BusinessLibrary\bin\Debug\netstandard2.0\BusinessLibrary.deps.json
+F:\Test\BusinessLibrary\bin\Debug\netstandard2.0\BusinessLibrary.dll
+F:\Test\BusinessLibrary\bin\Debug\netstandard2.0\BusinessLibrary.pdb
+F:\Test\BusinessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.dll
+F:\Test\BusinessLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.pdb
+F:\Test\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.csprojAssemblyReference.cache
+F:\Test\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.AssemblyInfoInputs.cache
+F:\Test\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.AssemblyInfo.cs
+F:\Test\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.csproj.CopyComplete
+F:\Test\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.dll
+F:\Test\BusinessLibrary\obj\Debug\netstandard2.0\BusinessLibrary.pdb
